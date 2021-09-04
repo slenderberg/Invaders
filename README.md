@@ -4,4 +4,5 @@
  -At certain scores your ship,enemy and bullet will upgrade
  -if the mousepointgoes out of the window game will be paused
  -if you click escape game will be paused
+ 
 
